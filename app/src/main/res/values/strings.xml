@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HomeWork3</string>
+    <string name="textViewHW">Домашняя работа №3</string>
+    <string name="btnTask1">Задание №1</string>
+    <string name="btnTask2">Задание №2</string>
+    <string name="input_url">Введите URL</string>
 </resources>
