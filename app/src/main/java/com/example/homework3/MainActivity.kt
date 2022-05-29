@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         val btnTask1: Button = findViewById(R.id.buttonTask1)
         val btnTask2: Button = findViewById(R.id.buttonTask2)
+        val btnTask1ImgView: Button = findViewById(R.id.buttonTask1ImgView)
 
         btnTask1.setOnClickListener {
             val intentTask1 = Intent(this, ActivityTask1::class.java)
@@ -23,6 +24,11 @@ class MainActivity : AppCompatActivity() {
         btnTask2.setOnClickListener {
             val intentTask2 = Intent(this, ActivityTask2::class.java)
             startActivity(intentTask2)
+        }
+
+        btnTask1ImgView.setOnClickListener {
+            val intentTask1ImgView = Intent(this, ActivityTask2ImageView::class.java)
+            startActivity(intentTask1ImgView)
         }
     }
 }

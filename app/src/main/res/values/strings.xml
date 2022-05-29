@@ -4,4 +4,5 @@
     <string name="btnTask1">Задание №1</string>
     <string name="btnTask2">Задание №2</string>
     <string name="input_url">Введите URL</string>
+    <string name="btnTask1imgView">Задание 1 imgView</string>
 </resources>
