@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">HomeWork3</string>
+    <string name="app_name">HomeWork6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="names">
+        <item>Алексеева Алёна</item>
+        <item>Андреев Артём</item>
+        <item>Андреева Анна</item>
+        <item>Антонова Таисия</item>
+        <item>Беляев Кирилл</item>
+        <item>Беляева Василиса</item>
+        <item>Беляева Екатерина</item>
+        <item>Белякова Ольга</item>
+        <item>Борисова Ксения</item>
+        <item>Васильева Ольга</item>
+    </string-array>
+
+    <string-array name="numbers">
+        <item>73218275178</item>
+        <item>73217783191</item>
+        <item>73215908153</item>
+        <item>73217299163</item>
+        <item>73218069742</item>
+        <item>73211173196</item>
+        <item>73218750299</item>
+        <item>73212894425</item>
+        <item>73212129654</item>
+        <item>73217218175</item>
+    </string-array>
+
 </resources>
